@@ -1,0 +1,16 @@
+.dogs {
+  float: left;
+  color: red;
+}
+.cats {
+  float: right;
+  color: brown;
+}
+h1 {
+  text-align: center;
+  color: blue;
+}
+h2 {
+  text-align: center;
+  color: green;
+}
